@@ -96,7 +96,3 @@ Style/OptionalBooleanParameter:
 Lint/DuplicateBranch:
   Exclude:
     - 'lib/fast_jsonapi/relationship.rb'
-
-Style/DocumentDynamicEvalDefinition:
-  Exclude:
-    - 'lib/extensions/has_one.rb'
